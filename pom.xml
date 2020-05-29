@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ibm.configserver</groupId>
-	<artifactId>configserver</artifactId>
+	<artifactId>currencyconfigserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>configserver</name>
+	<name>currencyconfigserver</name>
 	<description>configserver for assignment</description>
 
 	<properties>
