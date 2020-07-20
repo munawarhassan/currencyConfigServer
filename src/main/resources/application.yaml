@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/munawarhassan/CurrencyConfigdetail.git
+          uri: https://github.com/munawarhassan/currencyconfigdetails.git
           skip-ssl-validation: true 
 management:
   endpoints:
